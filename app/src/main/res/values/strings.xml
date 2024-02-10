@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Artspace App</string>
+    <string name="flower">Purple flower</string>
+    <string name="purple_flower">A blue vase with purple flowers floating in water</string>
+    <string name="deer">A deer standing in the middle of forest at night</string>
+    <string name="man_head">A blue and purple photo of man\'s head</string>
+    <string name="Polina">Polina Kondradhova</string>
+    <string name="OMK">OMK</string>
+    <string name="simonlee">SimonLee</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="flower_year">2000</string>
+</resources>
